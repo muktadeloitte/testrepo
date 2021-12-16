@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "BEoyz5uU4G/jjkVIGx0X4rBtlLu6HAKAFI3SOPvm35ThcQdcvHeNWqnzRDH2DAwfgpfWfyzSMqddD1r+MK8tKQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\muktads\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Host.win-x64. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
